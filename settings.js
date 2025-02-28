@@ -27,7 +27,7 @@
 //Instagram: null
 //Telegram: t.me/examsolutionteam
 //GitHub: @paskito002
-//WhatsApp: +2348187637779
+//WhatsApp: +233500850221
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@esteams
 //   * Created By Github: ES TEAMS
 //   * Credit To ES TEAMS TECH
@@ -41,20 +41,20 @@ const chalk = require('chalk');
 //owmner v card
 global.ytname = "YT: esteams" //ur yt chanel name
 global.socialm = "GitHub: paskito002" //ur github or insta name
-global.location = "Nigeria, Cross River, Calabar" //ur location
+global.location = "Ghana, Cross River, Calabar" //ur location
 
 //new
 global.botname = ' `𝐄𝐒 𝐓𝐄𝐀𝐌𝐒 𝐕𝟏`' //ur bot name
 global.ownernumber = ['233549772750'] //ur owner number, dont add more than one
 global.ownername = 'Andrew' //ur owner name
 global.websitex = "https://YouTube.com/@esteams"
-global.wagc = "https://chat.whatsapp.com/HR76L0EPTf44pP0IBsN0vD"
+global.wagc = "https://whatsapp.com/channel/0029VapJCy9GJP89oQIREA45"
 global.themeemoji = '⛩'
 global.wm = "Andrew"
 global.botscript = 'https://github.com/paskito002/ES_TEAMS-V1' //script link
 global.packname = "Andrew"
 global.author = "MΛDΣ BY Andrew TECH"
-global.creator = "233549772750@s.whatsapp.net"
+global.creator = "233500850221@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["233500850221"] // Premium User
 
